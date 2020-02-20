@@ -13,7 +13,6 @@ import org.springframework.stereotype.Service;
 import com.heidelsoft.attendance.exception.RecordNotFoundException;
 import com.heidelsoft.attendance.model.EmpPunchLog;
 import com.heidelsoft.attendance.model.EmployeeEntity;
-import com.heidelsoft.attendance.repository.EmployeePunchRepository;
 import com.heidelsoft.attendance.repository.EmployeeRepository;
 
 @Service
